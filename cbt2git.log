@@ -1,0 +1,15 @@
+2023-04-02 23:11:59.219891 - Initialized conversion of CBT286
+2023-04-02 23:11:59.267856 - Received CBT.V504.FILE286.PDS from FILE286.XMI 
+2023-04-02 23:11:59.270473 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE286.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:11:59.271545 - Found @FILE286.txt (text/plain) in CBT.V504.FILE286.PDS, moved to PDS/@FILE286
+2023-04-02 23:11:59.271555 - Found CMSCRIPT.bin containing application/octet-stream, moved to PDS/CMSCRIPT
+2023-04-02 23:11:59.272982 - Found SCRIPTCW.bin containing application/octet-stream, moved to PDS/SCRIPTCW
+2023-04-02 23:11:59.274323 - Found SCRIPTFO.bin containing application/octet-stream, moved to PDS/SCRIPTFO
+2023-04-02 23:11:59.275463 - Found SCRIPTHY.bin containing application/octet-stream, moved to PDS/SCRIPTHY
+2023-04-02 23:11:59.276434 - Found SCRIPTMC.bin containing application/octet-stream, moved to PDS/SCRIPTMC
+2023-04-02 23:11:59.277580 - Found SCRIPTOU.bin containing application/octet-stream, moved to PDS/SCRIPTOU
+2023-04-02 23:11:59.278633 - Found SCRIPTPM.bin containing application/octet-stream, moved to PDS/SCRIPTPM
+2023-04-02 23:11:59.279730 - Found SCRIPTRD.bin containing application/octet-stream, moved to PDS/SCRIPTRD
+2023-04-02 23:11:59.280852 - Found SCRIPTSY.bin containing application/octet-stream, moved to PDS/SCRIPTSY
+2023-04-02 23:11:59.281776 - Found SCRIPTW.bin containing application/octet-stream, moved to PDS/SCRIPTW
+2023-04-02 23:11:59.282717 - Found SYSINT.bin containing application/octet-stream, moved to PDS/SYSINT
